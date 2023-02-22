@@ -1,0 +1,9 @@
+--        CREATE A PROJECT
+--  -npx create-react-app restuarent-listing-app
+--  cd restaurent-listing-app
+--  code .
+--  in vs code terminal - npm start
+--  remove unwanted files
+--  install react bootstrap - npm i react-bootstrap bootstrap
+--  select template from bootswatch
+--  create components header and footer
